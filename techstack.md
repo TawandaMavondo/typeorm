@@ -76,7 +76,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/typeorm](https://github.com/TawandaMavondo/typeorm)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|77<br/>Tools used|12/09/23 <br/>Report generated|
+|79<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -387,9 +387,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (43)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (45)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (43)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (45)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -407,6 +407,7 @@ Full tech stack [here](/techstack.md)
 |[@types/yargs](https://www.npmjs.com/@types/yargs)|v17.0.22|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[app-root-path](https://www.npmjs.com/app-root-path)|v3.1.0|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|02/07/23|Umed Khudoiberdiev |WTFPL|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[class-transformer](https://www.npmjs.com/class-transformer)|v0.5.1|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[conventional-changelog-cli](https://www.npmjs.com/conventional-changelog-cli)|v2.2.2|02/07/23|Umed Khudoiberdiev |ISC|N/A|
 |[debug](https://www.npmjs.com/debug)|v4.3.4|02/07/23|Umed Khudoiberdiev |MIT|N/A|
@@ -420,6 +421,7 @@ Full tech stack [here](/techstack.md)
 |[gulp-sourcemaps](https://www.npmjs.com/gulp-sourcemaps)|v3.0.0|02/07/23|Umed Khudoiberdiev |ISC|N/A|
 |[gulp-typescript](https://www.npmjs.com/gulp-typescript)|v6.0.0|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[gulpclass](https://www.npmjs.com/gulpclass)|v0.2.0|02/07/23|Umed Khudoiberdiev |Apache-2.0|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.0.0|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v1.0.4|02/07/23|Umed Khudoiberdiev |MIT|N/A|
 |[mysql2](https://www.npmjs.com/mysql2)|v3.1.1|02/07/23|Umed Khudoiberdiev |MIT|N/A|
